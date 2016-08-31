@@ -9,11 +9,12 @@ Screen Recorder
 =====
 Default录制方式使用到的接口：  
 通过使用 [MediaProjectionManager](https://developer.android.com/reference/android/media/projection/MediaProjectionManager.html), [VirtualDisplay](https://developer.android.com/reference/android/hardware/display/VirtualDisplay.html), 
-[AudioRecord](https://developer.android.com/reference/android/media/MediaRecorder.html)等API，故而仅支持Android 5.0。  
+[MediaRecorder](https://developer.android.com/reference/android/media/MediaRecorder.html)等API，故而仅支持Android 5.0。  
 
 Advanced录制方式使用到的接口：  
 通过使用 [MediaProjectionManager](https://developer.android.com/reference/android/media/projection/MediaProjectionManager.html), [VirtualDisplay](https://developer.android.com/reference/android/hardware/display/VirtualDisplay.html), 
 [AudioRecord](https://developer.android.com/reference/android/media/AudioRecord.html),
 [MediaCodec](http://developer.android.com/reference/android/media/MediaCodec.html) 以及 [MediaMuxer](http://developer.android.com/reference/android/media/MediaMuxer.html) 等API，故而仅支持Android 5.0。  
 
-VideoRangeSeekBar实现：  
+VideoRangeSeekBar效果：  
+(https://lh3.googleusercontent.com/auWOxq_kVAQaI_MmuAKc2Atzo2pNvP1a_CvlZGeIxFLQ6CL8sflLCnGxtKqeBlezUA=h900-rw)
