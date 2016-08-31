@@ -1,9 +1,10 @@
 Screen Recorder
 =====
 1.实现了屏幕录制功能，包括Default和Advanced两种模式。  
-2.实现了MP4转gif功能，效果不好。
-3.实现了流行视频编辑中的trim的两边拖动的VideoRangeSeekBar。
-4.ArcMenu
+2.实现了MP4转gif功能，效果不好。  
+3.实现了流行视频编辑中的trim的两边拖动的VideoRangeSeekBar。  
+4.ArcMenu  
+
 解释：
 =====
 Default录制方式使用到的接口：
