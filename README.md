@@ -17,4 +17,4 @@ Advanced录制方式使用到的接口：
 [MediaCodec](http://developer.android.com/reference/android/media/MediaCodec.html) 以及 [MediaMuxer](http://developer.android.com/reference/android/media/MediaMuxer.html) 等API，故而仅支持Android 5.0。  
 
 VideoRangeSeekBar效果：  
-(https://lh3.googleusercontent.com/auWOxq_kVAQaI_MmuAKc2Atzo2pNvP1a_CvlZGeIxFLQ6CL8sflLCnGxtKqeBlezUA=h900-rw)
+![VideoRangeSeekBar](https://lh3.googleusercontent.com/auWOxq_kVAQaI_MmuAKc2Atzo2pNvP1a_CvlZGeIxFLQ6CL8sflLCnGxtKqeBlezUA=h900-rw)
