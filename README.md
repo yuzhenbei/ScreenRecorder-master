@@ -18,3 +18,4 @@ Advanced录制方式使用到的接口：
 
 VideoRangeSeekBar效果：  
 ![VideoRangeSeekBar](https://lh3.googleusercontent.com/auWOxq_kVAQaI_MmuAKc2Atzo2pNvP1a_CvlZGeIxFLQ6CL8sflLCnGxtKqeBlezUA=h900-rw)
+联系方式：136049925
